@@ -1,4 +1,4 @@
-## Data-analyst-Project
+## Excel_Project_Vrinda_Store_Data
 
 # In this project ,i used data analysis techniques to uncover key trends, patterns and insights.
 ![Screenshot (277)](https://github.com/mithi1322/Data-analyst-Project/assets/127670239/59195d04-f575-4951-85bd-2a139410f603)
